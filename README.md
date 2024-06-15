@@ -22,7 +22,7 @@ Be aware, the [installation](https://docs.facefusion.io/installation) needs tech
 Usage
 -----
 
-[![link](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/victorgeel/facefusion-Bypass-NSFW/blob/master/FacefusionBypass.ipynb](https://colab.research.google.com/drive/1o5O9yU32dVGHhrenI_wYQ_LKL-77Bd0u?usp=sharing))
+[![link](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1o5O9yU32dVGHhrenI_wYQ_LKL-77Bd0u?usp=sharing]
 
 Run the command:
 
